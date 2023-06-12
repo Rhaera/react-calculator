@@ -5,6 +5,7 @@ export const InputContainer = styled.div`
     height: 75px;
     background-color: #AFF;
     display: flex;
+    margin: 1px 0;
     align-items: center;
     justify-content: flex-end;
     font-size: 25px;
